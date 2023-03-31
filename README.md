@@ -2,6 +2,7 @@
 <br>
 <br>
 <br>
+
 ## Amazon Machine Image(AMI)란?
 
 > Amazon Machine Image(AMI)는 인스턴스를 시작하는 데 필요한 정보를 제공하는 AWS에서 지원되고 유지 관리되는 이미지입니다. 
