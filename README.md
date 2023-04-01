@@ -32,7 +32,7 @@
 > 메시지 브로커(message broker), 인터페이스 엔진(interface engine)은 송신자의 메시지 프로토콜 형식으로부터의 메시지를 수신자의 메시지 프로토콜 형식으로 변환하는 중간 컴퓨터 프로그램 모듈이다.
 <br>
 
-## EFS(Elastic File System
+## EFS(Elastic File System)
 
 > Elastic File System은 AWS 클라우드와 온프레미스에서 사용할 수 있는 클라우드 스토리지 서비스입니다. 파일을 추가하고 제거할 때 자동으로 용량을 확장/축소하여 별도 관리 및 프로비저닝이 필요하지 않습니다.
 >
